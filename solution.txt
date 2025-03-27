@@ -1,0 +1,5 @@
+b -> Color 1
+d -> Color 1
+e -> Color 2
+a -> Color 2
+c -> Color 3

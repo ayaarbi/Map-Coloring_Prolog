@@ -1,0 +1,13 @@
+region(a).
+region(b).
+region(c).
+region(d).
+region(e).
+adjacent(a, b).
+adjacent(a, c).
+adjacent(a, d).
+adjacent(b, c).
+adjacent(b, e).
+adjacent(c, d).
+adjacent(c, e).
+adjacent(d, e).
